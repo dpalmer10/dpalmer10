@@ -1,6 +1,6 @@
 # Daniel Palmer :wave:
 
-
+https://giphy.com/gifs/car-drift-automobile-Tfn2qCnq3JK8g
 
 ## Major
 Computer Science at Eastern Washington University
