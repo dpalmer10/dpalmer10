@@ -1,6 +1,6 @@
 # Daniel Palmer :wave:
 
-https://giphy.com/gifs/car-drift-automobile-Tfn2qCnq3JK8g
+<iframe src="https://giphy.com/embed/Tfn2qCnq3JK8g" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/car-drift-automobile-Tfn2qCnq3JK8g">via GIPHY</a></p>
 
 ## Major
 Computer Science at Eastern Washington University
