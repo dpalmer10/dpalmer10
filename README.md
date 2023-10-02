@@ -16,4 +16,4 @@ Computer Science at Eastern Washington University
 * Software Development
 
 ## Past Projects
-* Worked on a card game
+* Worked on a card game called [Orbellion](https://github.com/NathanMarsee/Orbellion-Digital-Game)
