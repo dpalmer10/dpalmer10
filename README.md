@@ -1,4 +1,6 @@
-# Daniel Palmer
+# Daniel Palmer :wave:
+
+
 
 ## Major
 Computer Science at Eastern Washington University
