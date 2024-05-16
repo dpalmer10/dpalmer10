@@ -7,6 +7,8 @@ Computer Science at Eastern Washington University
 * Java
 * C#
 * AWS Cloud
+* Dart
+* C / C++
 
 ## Interests
 * Data Mining
