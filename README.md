@@ -9,6 +9,7 @@ Computer Science at Eastern Washington University
 * AWS Cloud
 * Dart / Flutter
 * C / C++
+* Cuda
 
 ## Interests
 * Data Mining
