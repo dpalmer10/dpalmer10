@@ -7,7 +7,7 @@ Computer Science at Eastern Washington University
 * Java
 * C#
 * AWS Cloud
-* Dart
+* Dart / Flutter
 * C / C++
 
 ## Interests
@@ -16,6 +16,7 @@ Computer Science at Eastern Washington University
 * Software Development
 
 ## Past Projects
+* Senior Capstone project [Welcome to Cheney](https://github.com/CSCD488-Winter2024/senior-project-the-a-team)
 * Worked on a card game called [Orbellion](https://github.com/NathanMarsee/Orbellion-Digital-Game)
 
 
