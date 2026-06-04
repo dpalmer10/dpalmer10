@@ -1,11 +1,9 @@
-# Daniel Palmer :wave:
-
-## Certificates
+## Certificates 📜
 * AWS Certified Developer - Associate
 * AWS Certified Cloud Practitioner
 * Anthropic - Claude Code in Action
 
-## Languages
+## Languages 📚
 * Java
 * C#
 * Dart
@@ -13,7 +11,7 @@
 * SQL / NoSQL
 * Golang
 
-## Frameworks & Tools
+## Frameworks & Tools 🛠️
 * Flutter
 * Firebase
 * CUDA
@@ -22,18 +20,18 @@
 * Claude Code / Github Copilot
 * AWS
 
-## Professional Interests
+## Professional Interests 💻
 * Cloud Computing
 * Software Development
 * Data
 
-## Personal Interests
+## Personal Interests 🎯
 * Computers and hardware
 * NFL (Patriots)
 * Games (Souls-like, racing, RPG)
 * Language learning (Japanese)
 
-## Past Projects
+## Past Projects 🗃️
 * Senior Capstone project [Welcome to Cheney](https://github.com/CSCD488-Winter2024/senior-project-the-a-team)
 * Worked on a card game called [Orbellion](https://github.com/NathanMarsee/Orbellion-Digital-Game)
 
