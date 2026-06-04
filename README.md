@@ -1,20 +1,35 @@
 # Daniel Palmer :wave:
 
-## Major
-Computer Science at Eastern Washington University
+## Degree
+Bachelor of Computer Science from Eastern Washington University
 
-## Skills
+## Languages
 * Java
 * C#
-* AWS Cloud
-* Dart / Flutter
+* Dart
 * C / C++
-* Cuda
+* SQL / NoSQL
+* Golang
 
-## Interests
-* Data Mining
+## Frameworks & Tools
+* Flutter
+* Firebase
+* CUDA
+* Docker
+* Vue.js
+* Claude Code / Github Copilot
+* AWS
+
+## Professional Interests
 * Cloud Computing
 * Software Development
+* Data
+
+## Personal Interests
+* Computers and hardware
+* NFL (Patriots)
+* Games (Souls-like, racing, RPG)
+* Language learning (Japanese)
 
 ## Past Projects
 * Senior Capstone project [Welcome to Cheney](https://github.com/CSCD488-Winter2024/senior-project-the-a-team)
