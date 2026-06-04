@@ -28,7 +28,7 @@
 ## Personal Interests 🎯
 * Computers and hardware
 * NFL (Patriots)
-* Games (Souls-like, racing, RPG)
+* Games (Souls-like, Racing, RPG)
 * Language learning (Japanese)
 
 ## Past Projects 🗃️
