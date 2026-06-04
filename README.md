@@ -1,7 +1,9 @@
 # Daniel Palmer :wave:
 
-## Degree
-Bachelor of Computer Science from Eastern Washington University
+## Certificates
+* AWS Certified Developer - Associate
+* AWS Certified Cloud Practitioner
+* Anthropic - Claude Code in Action
 
 ## Languages
 * Java
